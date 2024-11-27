@@ -1,3 +1,6 @@
+# c0d3m0nk3y additional comment
+Add samsung-unified-driver from the AUR
+
 # (Linux) Samsung M2020 Series on x64_86 architecture in CUPS
 
 1. Run
